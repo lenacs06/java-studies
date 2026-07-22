@@ -5,7 +5,7 @@ public class variable {
         char myInitialLetter = 'H';
         int age = 20;
         float myHeight = 1.75f;
-        // f obrigatório: literal decimal é double por padrão (detalhes no README)
+        // 'f' is mandatory: decimal literal is double by default (details in the README)
 
         System.out.println("My name is " + Name);
         System.out.println("My age is " + age);
@@ -14,6 +14,6 @@ public class variable {
 
         long worldPopulation = 8000000000L;
         System.out.println("World population is " + worldPopulation);
-        // L obrigatório: literal grande estoura o limite do int (detalhes no README)
+        // 'L' is mandatory: the large literal exceeds the int limit (details in the README)
     }
 }
