@@ -1,4 +1,5 @@
-public class variable {
+package class_02_variables;
+public class Variable {
     public static void main(String[] args) {
         //Variables
         String Name = "Helena";
