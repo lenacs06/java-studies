@@ -1,6 +1,6 @@
 package class_03_operators_math_string;
 public class Arithmetic {
-    static void main (String[] args){
+    static void main (){
         // Arithmetic Operators. Example.
 
         int x = 10;
