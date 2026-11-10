@@ -1,7 +1,6 @@
 package class_03_operators_math_string;
 public class Assignment{
     public static void main(String[] args){
-        //Assignment Operators
         //Assignment operators are used to assign values to variables.
 
         // = (simple assignment operator)
